@@ -38,5 +38,5 @@ Feedback is welcome—see `CONTRIBUTING.md`.
 
 ## License
 
-Prompt text is released under the MIT License (see `LICENSE`).  
+Prompt text is released under a Creative Commons Attribution-NonCommercial 4.0 International CC BY-NC 4.0 Public License (see `LICENSE`).  
 Images in `examples/` may have separate credits.
